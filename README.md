@@ -23,4 +23,4 @@
 - **BI:** Power BI, Data Modeling
 - **BPMN:** Process optimization
 
-[Ваше имя] | [Ваш email] | [Ваш телефон]
+[И.В. Миронов] | [igo.miv@yandex.ru] | [+7 985 155 50 48]
